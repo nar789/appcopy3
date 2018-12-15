@@ -1,0 +1,16 @@
+.img{
+	position: absolute;
+	width:100%;
+	height:100%;
+}
+.btn{
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	bottom:10%;
+}
+body{
+	background-color: black;
+	margin:0px;padding: 0px;
+	overflow-x: none;
+}
