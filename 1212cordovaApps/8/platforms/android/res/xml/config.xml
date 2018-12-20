@@ -4,7 +4,7 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
-    <name>즉톡채팅</name>
+    <name>즐톡채팅</name>
     <description>
     </description>
     <author email="" href="">
